@@ -1,0 +1,7 @@
+C:\Users\perla\Desktop\sample c++\MockVita2\PetrolPump\PetrolPump\obj\Debug\PetrolPump.csprojAssemblyReference.cache
+C:\Users\perla\Desktop\sample c++\MockVita2\PetrolPump\PetrolPump\obj\Debug\PetrolPump.csproj.CoreCompileInputs.cache
+C:\Users\perla\Desktop\sample c++\MockVita2\PetrolPump\PetrolPump\bin\Debug\PetrolPump.exe.config
+C:\Users\perla\Desktop\sample c++\MockVita2\PetrolPump\PetrolPump\bin\Debug\PetrolPump.exe
+C:\Users\perla\Desktop\sample c++\MockVita2\PetrolPump\PetrolPump\bin\Debug\PetrolPump.pdb
+C:\Users\perla\Desktop\sample c++\MockVita2\PetrolPump\PetrolPump\obj\Debug\PetrolPump.exe
+C:\Users\perla\Desktop\sample c++\MockVita2\PetrolPump\PetrolPump\obj\Debug\PetrolPump.pdb
